@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a senior Bankend Engineer at Inchcape, building scalable applications<br>I am looking to collaborate with other enterprise and SME businesses to build/maintain their brands<br>I am currently learning and improving my Java development Stick_No_Bills<br>Ask me about my development methodologies, languages, tools and frameworks of choice<br>I love playing soccer and scrabble game during my free times.
+I am currently working as a senior Bankend Engineer at Inchcape, building scalable applications<br>I am looking to collaborate with other enterprise and SME businesses to build/maintain their brands<br>I am currently learning and improving my Java development Skills<br>Ask me about my development methodologies, languages, tools and frameworks of choice<br>I love playing soccer and scrabble game during my free times.
 
 
 ## 🌐 Socials:
